@@ -9,7 +9,7 @@
 
 /** Config Vars **/
 var TESTING = false;
-var VERBOSE = false;
+var VERBOSE = true;
 var DEEP_VERBOSE = false;
 var ELEMENT_ID = 'gameScreen';
 var BACKGROUND_COLOR = 0x87CEEB;
