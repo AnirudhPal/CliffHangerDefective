@@ -133,65 +133,65 @@ Each player can only have 6 offensive and 6 defensive items. Players can only us
 
 *Before Moving.*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_1.png?raw=true)
 
 *After Pressing D (This could also be used to show what a basic attack looks like).*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_2.png?raw=true)
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_3.png?raw=true)
 
 *Area of Effect Attack Spaces. Select W, A, S, D to Attack all Red Spaces.*
 
 *Before selecting Move Again.*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_4.png?raw=true)
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_5.png?raw=true)
 
 *After Using Move Again.*
 
 *After Selecting a Trap Item.*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_6.png?raw=true)
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_7.png?raw=true)
 
 *After Moving Selection to Desired Block*
 
 *After Selecting a Ranged, Basic Attack*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_8.png?raw=true)
 
 *After Selecting a Teleport Item*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_9.png?raw=true)
 
 *After Moving Selection to Desired Block*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_10.png?raw=true)
 
 *After Pressing Spacebar to Move to Selected Space*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_11.png?raw=true)
 
 *After Selecting to use a Potion*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_12.png?raw=true)
 
 
 *Health before using Potion*
 
 *After using a Minor Potion (10 HP Healing)*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_13.png?raw=true)
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_14.png?raw=true)
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_15.png?raw=true)
 
 *Before using Push Attack*
 
 *After Pushing to the Left with A*
 
-![]()
+![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_16.png?raw=true)
