@@ -106,3 +106,92 @@ To provided Additional aid to the tester we have included *gamev.html* and *game
 
 How to Play
 ---
+
+CliffHanger is a 4-player game where the sole survivor in the end is the winner. Each player has 15 seconds to play their turn. A turn counts if a player moves. Attacking or using special items after moving is allowed but not required.
+
+A player cannot end their turn without moving first. Each player has 100 HP (health points) to start with. Each attack or special item injures players differently.
+
+Players can also use potions to heal or gain HP. A player dies if they get pushed off the stage, or lose all of their health points.
+
+Each player can only have 6 offensive and 6 defensive items. Players can only use the item on top of their items queue. 10 items are dropped at the beginning of the game. A new item is dropped after every full turn. The outer layer of tiles is dropped after a certain number of turns to make the stage smaller for more action!
+
+### Controls
+
+*W,A,S,D* - Up, left, down, right (respectively)
+
+*P* - Choose offensive item
+
+*L* - Choose defensive item
+
+*B* - Choose basic attack
+
+*E* - End turn (after moving)
+
+*Spacebar* - Use potion, select teleport or trap locations
+
+### Gameplay
+
+*Before Moving.*
+
+![]()
+
+*After Pressing D (This could also be used to show what a basic attack looks like).*
+
+![]()
+
+![]()
+
+*Area of Effect Attack Spaces. Select W, A, S, D to Attack all Red Spaces.*
+
+*Before selecting Move Again.*
+
+![]()
+
+![]()
+
+*After Using Move Again.*
+
+*After Selecting a Trap Item.*
+
+![]()
+
+![]()
+
+*After Moving Selection to Desired Block*
+
+*After Selecting a Ranged, Basic Attack*
+
+![]()
+
+*After Selecting a Teleport Item*
+
+![]()
+
+*After Moving Selection to Desired Block*
+
+![]()
+
+*After Pressing Spacebar to Move to Selected Space*
+
+![]()
+
+*After Selecting to use a Potion*
+
+![]()
+
+
+*Health before using Potion*
+
+*After using a Minor Potion (10 HP Healing)*
+
+![]()
+
+![]()
+
+![]()
+
+*Before using Push Attack*
+
+*After Pushing to the Left with A*
+
+![]()
