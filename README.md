@@ -48,7 +48,7 @@ In this option we take care of running the server and you can access the website
 
 ### Using your Hosting Service
 
-In this option you run a Python2 server on a POSIX system and use any client browser to access the application. The server that we provide is not secure and is a very basic implementation. We recommend sandboxing the server if you are going to use our server. Also, errors in the server that we provided **should not be considered a defect** as the server is not part of the project and is only provided as aid for testing. You can also use your own server implementation. This is recommended for higher order testing.
+In this option you run a Python2 server on a POSIX system and use any client browser to access the application. The server that we provide is not secure and is a very basic implementation. We recommend sandboxing the server if you are going to use our server. Also, errors in the server that we provided **should not be considered a defect** as the server is not part of the project and is only provided as aid for testing. You can also use your own server implementation like the one from CS252 Lab 6 - Socket Programming. It needs to have support for HTML, JS and STL files. This is recommended for higher order testing.
 
 **Server**
 
@@ -72,7 +72,7 @@ python server.py 2200
 
 *Step 2: Enter URL localhost:2200/game.html. If you are not running the browser on the same machine as the server replace localhost with the IP or Hostname of the server.*
 
-![This is how it should look.](PUT URL)
+![This is how it should look.](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/2_1.png?raw=true)
 
 ### Running Locally
 
