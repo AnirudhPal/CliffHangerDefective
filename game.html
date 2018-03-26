@@ -152,7 +152,7 @@
 	<script src="https://threejs.org/examples/js/Detector.js"></script>
 	<script src="https://threejs.org/examples/js/controls/OrbitControls.js"></script>
 	<script src="https://threejs.org/examples/js/loaders/STLLoader.js"></script>
-	
+
 	<script src="front/gameStage/frontGlobal.js" type="text/javascript"></script>
 	<script src="front/gameStage/frontMain.js" type="text/javascript"></script>
 	<script src="front/gameStage/frontBuilder.js" type="text/javascript"></script>
@@ -165,7 +165,7 @@
 	<script src="front/animators/growPiece.js" type="text/javascript"></script>
 	<script src="front/animators/shrinkPiece.js" type="text/javascript"></script>
 	<script src="front/animators/telePiece.js" type="text/javascript"></script>
-	
+
 	<script src="back/item.js" type="text/javascript"></script>
 	<script src="back/player.js" type="text/javascript"></script>
 	<script src="back/boardspace.js" type="text/javascript"></script>
@@ -254,11 +254,11 @@
 			displayPlayerInfo();
 		}
 		else {
-			game.startTurnFor(player.data);
-			turnTimer(20, player.data.name, "timer");
-			displayPlayerInfo();
-			document.getElementById("global").innerHTML = game.currPlayer.name+" has no possible moves!";
-			endTurn();
+			// game.startTurnFor(player.data);
+			// turnTimer(20, player.data.name, "timer");
+			// displayPlayerInfo();
+			// document.getElementById("global").innerHTML = game.currPlayer.name+" has no possible moves!";
+			// endTurn();
 		}
 	}
 
@@ -268,8 +268,8 @@
 			document.getElementById("endTurn").disabled = false;
 			if (game.currPlayer.status == 0) { // Player was trapped
 				document.getElementById("global").innerHTML = player.data.name + " was trapped!<br />";
-				game.clearAttackSpaces();
-				endTurn();
+				// game.clearAttackSpaces();
+				// endTurn();
 			} else {													// Not trapped
 				displayItems();
 				document.getElementById("instructions").innerHTML = player.data.name + ", attack someone near you or end your turn.<br />";
