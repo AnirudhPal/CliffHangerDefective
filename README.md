@@ -70,7 +70,7 @@ python server.py 2200
 
 *Step 1: Open a Browser*
 
-*Step 2: Enter URL localhost:2200/game.html. If you are not running the browser on the same machine as the server replace localhost with the IP or Hostname of the server.*
+*Step 2: Enter URL localhost:2200/game.html. If you are not running the browser on the same machine as the server replace localhost with the IP or Hostname of the server. Also use the appropriate port number.*
 
 ![This is how it should look.](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/2_1.png?raw=true)
 
@@ -88,7 +88,7 @@ git clone https://github.com/AnirudhPal/CliffHangerDefective.git
 
 *Step 3: Open File game.html with Browser*
 
-![This is how it should look.](PUT URL)
+![This is how it should look.](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/3_1.PNG?raw=true)
 
 ### Additional Help
 
@@ -102,7 +102,7 @@ To provided Additional aid to the tester we have included *gamev.html* and *game
 
 *Step 4: Enter URL*
 
-![This is how it should look.](PUT URL)
+![This is how it should look.](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/4_1.png?raw=true)
 
 How to Play
 ---
