@@ -4,6 +4,21 @@ CliffHanger: A JavaScript Board Game
 Index
 ---
 
+1. [**Introduction**](https://anirudhpal.github.io/CliffHangerDefective/#introduction)
+
+2. [**System Requirements**](https://anirudhpal.github.io/CliffHangerDefective/#system-requirements)
+
+3. [**Setup**](https://anirudhpal.github.io/CliffHangerDefective/#setup)
+
+    * [*Using our Hosting Service*](https://anirudhpal.github.io/CliffHangerDefective/#using-our-hosting-service)
+    * [*Using your Hosting Service*](https://anirudhpal.github.io/CliffHangerDefective/#using-your-hosting-service)
+    * [*Running Locally*](https://anirudhpal.github.io/CliffHangerDefective/#running-locally)
+
+4. [**How to Play**](https://anirudhpal.github.io/CliffHangerDefective/#how-to-play)
+
+    * [*Controls*](https://anirudhpal.github.io/CliffHangerDefective/#controls)
+    * [*Gameplay*](https://anirudhpal.github.io/CliffHangerDefective/#gameplay)
+
 Introduction
 ---
 
@@ -117,17 +132,14 @@ Each player can only have 6 offensive and 6 defensive items. Players can only us
 
 ### Controls
 
-*W,A,S,D* - Up, left, down, right (respectively)
-
-*P* - Choose offensive item
-
-*L* - Choose defensive item
-
-*B* - Choose basic attack
-
-*E* - End turn (after moving)
-
-*Spacebar* - Use potion, select teleport or trap locations
+Keyboard Input | Action
+--- | ---
+*W,A,S,D* | Up, left, down, right (respectively)
+*P* | Choose offensive item
+*L* | Choose defensive item
+*B* | Choose basic attack
+*E* | End turn (after moving)
+*Spacebar* | Use potion, select teleport or trap locations
 
 ### Gameplay
 
@@ -157,32 +169,32 @@ Each player can only have 6 offensive and 6 defensive items. Players can only us
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_7.png?raw=true)
 
-*After Moving Selection to Desired Block*
+*After Moving Selection to Desired Block.*
 
-*After Selecting a Ranged, Basic Attack*
+*After Selecting a Ranged, Basic Attack.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_8.png?raw=true)
 
-*After Selecting a Teleport Item*
+*After Selecting a Teleport Item.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_9.png?raw=true)
 
-*After Moving Selection to Desired Block*
+*After Moving Selection to Desired Block.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_10.png?raw=true)
 
-*After Pressing Spacebar to Move to Selected Space*
+*After Pressing Spacebar to Move to Selected Space.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_11.png?raw=true)
 
-*After Selecting to use a Potion*
+*After Selecting to use a Potion.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_12.png?raw=true)
 
 
-*Health before using Potion*
+*Health before using Potion.*
 
-*After using a Minor Potion (10 HP Healing)*
+*After using a Minor Potion (10 HP Healing).*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_13.png?raw=true)
 
@@ -190,8 +202,8 @@ Each player can only have 6 offensive and 6 defensive items. Players can only us
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_15.png?raw=true)
 
-*Before using Push Attack*
+*Before using Push Attack.*
 
-*After Pushing to the Left with A*
+*After Pushing to the Left with A.*
 
 ![](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/5_16.png?raw=true)
