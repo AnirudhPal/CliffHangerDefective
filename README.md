@@ -27,7 +27,7 @@ Our project is an online 3D board game. It is built using HTML, CSS and JavaScri
 System Requirements
 ---
 
-The system requirements outlines the **suggested** configurations. You might find that the applications runs in more configurations than the one's stated below. There are three options for testing the server. They are described in detail in the [setup]() section.
+The system requirements outlines the **suggested** configurations. You might find that the applications runs in more configurations than the one's stated below. There are three options for testing the server. They are described in detail in the [setup](https://anirudhpal.github.io/CliffHangerDefective/#setup) section.
 
 1. Using our hosting service
     * For client:

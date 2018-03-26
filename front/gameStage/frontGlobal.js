@@ -34,7 +34,7 @@ var FP_BUF = 1000;
 var FP_EXP = 5;
 var SP_RED = 0.05;
 var SP_MIN = 0.00001;
-var MOV_ERR = 2;
+var MOV_ERR = 0;
 
 // Animations Performance Test: Graph frames rendered in the last second (FPS), msecs needed to render a frame (MS), and mbytes of allocated memory (MB).
 /* Anjali uncomment for testing */
