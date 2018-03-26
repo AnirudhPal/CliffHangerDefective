@@ -92,5 +92,17 @@ git clone https://github.com/AnirudhPal/CliffHangerDefective.git
 
 ### Additional Help
 
+To provided Additional aid to the tester we have included *gamev.html* and *gamevv.html* which are the same as *game.html* but produces more comprehensive console output. This part shows you how to use console on Chrome.
+
+*Step 1: Open Google Chrome*
+
+*Step 2: Use Shortcut Ctrl + Shift + I*
+
+*Step 3: Select Console Tab*
+
+*Step 4: Enter URL*
+
+![This is how it should look.](PUT URL)
+
 How to Play
 ---
