@@ -6,10 +6,10 @@ import sys          # Used to get Command Line Arguments
 import threading    # Used for Thread Pool
 
 # Config Vars
-VERBOSE = False     # Controls Print Statements
+VERBOSE = True     # Controls Print Statements
 HOST = ''           # Still don't know waht this does
 DPORT = 2200        # Default Port
-CLARGS = False       # Force use CL Arquments
+CLARGS = True       # Force use CL Arquments
 RTYPE = "GET"       # Use GET, onlt GET Implemented
 QSIZE = 5           # Size of Queue in 1 Thread
 TCOUNT = 5          # Count of Threads (including main thread)
