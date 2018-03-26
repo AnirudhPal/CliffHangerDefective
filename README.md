@@ -38,17 +38,17 @@ This section is an instructional for setting up the application. If you don't us
 
 ### Using our Hosting Service
 
-In this option we take care of running the server and you can access the website on a link that we provide. This recommended for functional testing.
+In this option we take care of running the server and you can access the website on a link that we provide. This is recommended for functional testing.
 
 *Step 1: Open a Browser*
 
 *Step 2: Enter URL* [*https://anirudhpal.github.io/CliffHangerDefective/game.html*](https://anirudhpal.github.io/CliffHangerDefective/game.html)
 
-![This is how it should look.](PUT URL)
+![This is how it should look.](https://github.com/AnirudhPal/CliffHangerDefective/blob/master/img/1_1.png?raw=true)
 
 ### Using your Hosting Service
 
-In this option you run a Python2 server on a POSIX system and use any client browser to access the application. The server that we provide is not secure and is a very basic implementation. We recommend sandboxing the server if you are going to use our server. Also, errors in the server that we provided **should not be considered a defect** as the server is not part of the project and is only provided as aid for testing. This is recommended for higher order testing.
+In this option you run a Python2 server on a POSIX system and use any client browser to access the application. The server that we provide is not secure and is a very basic implementation. We recommend sandboxing the server if you are going to use our server. Also, errors in the server that we provided **should not be considered a defect** as the server is not part of the project and is only provided as aid for testing. You can also use your own server implementation. This is recommended for higher order testing.
 
 **Server**
 
